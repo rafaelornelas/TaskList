@@ -1,6 +1,6 @@
 //
 //  FirstViewController.swift
-//  TaskList - GITHUB
+//  TaskList
 //
 //  Created by Rafael Ornelas on 22/09/15.
 //  Copyright © 2015 Ornelas. All rights reserved.
